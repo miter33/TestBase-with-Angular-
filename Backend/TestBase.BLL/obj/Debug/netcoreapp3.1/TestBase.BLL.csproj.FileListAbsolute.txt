@@ -1,0 +1,17 @@
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.BLL.deps.json
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.BLL.dll
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.BLL.pdb
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.dll
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.pdb
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.Common.dll
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.DAL.dll
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.Common.pdb
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.BLL.runtimeconfig.json
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.BLL.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\bin\Debug\netcoreapp3.1\TestBase.DAL.pdb
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.csproj.CopyComplete
+C:\Users\Виктор\Desktop\TestBase\Backend\TestBase.BLL\obj\Debug\netcoreapp3.1\TestBase.BLL.genruntimeconfig.cache
