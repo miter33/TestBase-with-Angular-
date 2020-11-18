@@ -95,6 +95,7 @@ ipch/
 *.vssscc
 *.bak.*
 *.bak
+.vs
 
 #Tools
 _ReSharper.*
@@ -204,4 +205,4 @@ testem.log
 
 # System Files
 .DS_Store
-Thumbs.db
+Thumbs.d
